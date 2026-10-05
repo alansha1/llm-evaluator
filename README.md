@@ -163,4 +163,4 @@ llm-evaluator/
 
 ---
 
-*Built by [Alan Sha](https://github.com/alansha1) · MSc Data Analytics, Dublin Business School 2026*
+*Built by [Alan Sha](https://github.com/alansha1) ·
